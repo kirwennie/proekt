@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+p {
+    color: whitesmoke; 
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    font-size: 48px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.main {
+    color: whitesmoke; 
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    font-size: 32px;
+    font-family: 'Press Start 2P', cursive;
+   
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+}
+
+img { 
+    height: 100%;
+}
